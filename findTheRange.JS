@@ -17,5 +17,5 @@ for (let i = 0; i <numArray.length; i++){
 }
 
 
-console.log(`In this array [${numArray}], the smallest number is: ${smallest} and the largest number = ${largest}`)
+console.log(`In this array [${numArray}], the smallest number is: ${smallest} and the largest number is:  ${largest}`)
 
